@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Plan"
+  short_description: "Iterate repository-grounded plans to approval"
+  default_prompt: "Use $loop-plan to develop a repository-grounded plan through independent review."

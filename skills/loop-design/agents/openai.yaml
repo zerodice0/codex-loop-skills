@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Design"
+  short_description: "Iterate Pencil designs and UX copy to approval"
+  default_prompt: "Use $loop-design to refine the active Pencil design until independent approval."

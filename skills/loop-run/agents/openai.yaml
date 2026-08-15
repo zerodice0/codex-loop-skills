@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Run"
+  short_description: "Execute and audit code changes to approval"
+  default_prompt: "Use $loop-run to implement this request through independent code review and final audit."
